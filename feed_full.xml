@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-07 12:00">
+<yml_catalog date="2026-08-07 13:05">
   <shop>
     <categories>
       <category id="137" portal_id="137">Розвиваючі іграшки</category>
       <category id="123" portal_id="123">Конструктори</category>
-      <category id="132" portal_id="132">Брязкальця і прорізувачі</category>
       <category id="120" portal_id="120">Інтерактивні та музичні іграшки</category>
       <category id="96" portal_id="96">Іграшки для колясок та автокрісел</category>
-      <category id="119" portal_id="119">Дитячі музичні інструменти</category>
       <category id="138" portal_id="138">Дитячі іграшки-каталки</category>
       <category id="114" portal_id="114">М'які іграшки</category>
       <category id="86" portal_id="86">Декоративна косметика для дітей</category>
@@ -85,6 +83,8 @@
         <param name="Матеріал">Дерево</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тематика">Споруди</param>
+        <param name="Тип товару">Конструктори</param>
       </offer>
       <offer id="72551886" available="true">
         <name_ua>Пальчіковий лабірінт для дітей, міні бізіборд, розвивальна дерев'яна іграшка для малюків</name_ua>
@@ -198,7 +198,7 @@
         <description_ru>&lt;p&gt;“Крутезна сенсорна пірамідка”  - це оригінальна новинка, яка вирізняється від звичних пірамідок креативним дизайном та цікавим функціоналом. Конструкція її стрижня має форму гвинта, на яку один за одним накручуються кольорові елементи різних форм, розмірів і текстур, які дитина із задоволенням досліджуватиме у процесі гри.&lt;/p&gt;&lt;p&gt;Іграшка має позитивний вплив на розвиток логічного та образного мислення, спонукає до вивчення нових кольорів, вчить розрізняти елементи за розміром, чудово тренує дрібну моторику і координацію рухів.&lt;/p&gt;&lt;p&gt;Особливості:&lt;/p&gt;&lt;p&gt;- яскрава колірна гама ігрових елементів;&lt;/p&gt;&lt;p&gt;- кожен елемент має свій текстурний малюнок;&lt;/p&gt;&lt;p&gt;- міцна та стійка основа пірамідки;&lt;/p&gt;</description_ru>
         <price>569</price>
         <old_price>799</old_price>
-        <categoryId>132</categoryId>
+        <categoryId>137</categoryId>
         <vendor>Fun Game</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79499543-3a4745f6cfe049910a06196afa494e5b-1729690034272.jpg</picture>
@@ -211,7 +211,8 @@
         <param name="Вік">Від 1.5 років</param>
         <param name="Вік">Від 2 років</param>
         <param name="Вік">Від 3 років</param>
-        <param name="Вік">Від 2.5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="79499582" available="true">
         <name_ua>Розвиваюча іграшка для малюків, Крутецька дитяча пірамідка кольорова в башта вежа з шестерень 5шт Монтессорі</name_ua>
@@ -337,6 +338,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95057056-72a52fffe34947dfbf0ef41555e3cc80-1734090729284.jpg</picture>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Особливості">Зі звуковими ефектами</param>
+        <param name="Особливості">Зі світловими ефектами</param>
       </offer>
       <offer id="95059252" available="false">
         <name_ua>Мягкая игрушка дышащая Выдра для сна сказочные сны выдрочка с мелодиями светом и реалистичными звуками дыхания и сопения как у младенца на подарок ночники для новорожденных детей розовая</name_ua>
@@ -356,6 +359,9 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059252-7ea1088bd9a83e4695add8833d537962-1734335799686.jpg</picture>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Особливості">Зі звуковими ефектами</param>
+        <param name="Особливості">Зі світловими ефектами</param>
+        <param name="Особливості">Рухаються</param>
       </offer>
       <offer id="95059275" available="false">
         <name_ua>Мягкая игрушка дышащая Выдра для сна сказочные сны выдрочка с мелодиями светом и реалистичными звуками дыхания и сопения как у младенца на подарок ночники для новорожденных детей голубая</name_ua>
@@ -375,6 +381,9 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059275-db3da5a5780deb51ae1f437b5d96ebc7-1734359850949.jpg</picture>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Особливості">Зі звуковими ефектами</param>
+        <param name="Особливості">Зі світловими ефектами</param>
+        <param name="Особливості">Рухаються</param>
       </offer>
       <offer id="100102328" available="true">
         <name_ua>Куб сортер розвиваючий центр гра для дітей,  геометричні фігури, резиночки. Монтесорі сортер 10 фігур (НЕ0211)</name_ua>
@@ -431,6 +440,7 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i102874515-4b031933e888a283f65dab79a77ceb2c-1761728424941.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="103173945" available="false">
         <name_ua>Розвивальний інтерактивний слоник з літаючим мʼячом, їздить з музикою та світлом іграшка для малюків та новороджених, 2 мʼяча в комлпекті</name_ua>
@@ -463,6 +473,9 @@
         <param name="Вік">Від 5 років</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип">Ручки</param>
+        <param name="Особливості">Музичні</param>
+        <param name="Особливості">Зі світловими ефектами</param>
       </offer>
       <offer id="103272652" available="false">
         <name_ua>Розвиваюча іграшка лабіринт Жирафка для малюків, дитяча пірамідка кольорова башня спуск з 5 кульками та баскетбольним кільцем 40 см</name_ua>
@@ -703,6 +716,7 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103608447-e4d9ca0b948e544db8be957d7b4614ff-1743681187793.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="104093369" available="false">
         <name_ua>Силіконові кубики тактильна пірамідка набір сенсорних іграшок для малюків 7 елементів</name_ua>
@@ -825,13 +839,15 @@
 14.5 см × 14.5 см × 17 см&lt;/p&gt;</description_ru>
         <price>399</price>
         <old_price>400</old_price>
-        <categoryId>120</categoryId>
+        <categoryId>137</categoryId>
         <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-d234b11067522345bc4438d4321d6d8d-1744465739097.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-0bd070384578a115c024607db18cfcc5-1744465737572.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-2d3cb1fd91d6041d2e2c8d9383e650ae-1744465739622.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-a565cc48ed6d01b00b2df1d2ab068b52-1744465740288.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-6969b3e589bbc4a078d2fad263d38b1a-1744465769180.jpg</picture>
+        <param name="Матеріал">Пластик</param>
+        <param name="Колір">Бірюзовий</param>
         <param name="Вік">Від 6 місяців</param>
         <param name="Вік">Від 7 місяців</param>
         <param name="Вік">Від 8 місяців</param>
@@ -861,12 +877,15 @@
 14.5 см × 14.5 см × 17 см&lt;/p&gt;</description_ru>
         <price>539</price>
         <old_price>600</old_price>
-        <categoryId>120</categoryId>
+        <categoryId>137</categoryId>
         <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-2dce26ebaa855d708193398ecabf39d7-1744466028969.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-226d55b0fb42766880c8aeaccb321390-1744466030927.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-123c674c36f66c8e659bc695d06eaef7-1744466029497.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-fb76de3d8650ee5eb5e85254ae76f1f5-1744466030208.jpg</picture>
+        <param name="Тип">Дзиги</param>
+        <param name="Матеріал">Пластик</param>
+        <param name="Колір">Рожевий</param>
         <param name="Вік">Від 6 місяців</param>
         <param name="Вік">Від 7 місяців</param>
         <param name="Вік">Від 8 місяців</param>
@@ -890,7 +909,7 @@
         <description_ru>&lt;p&gt;&lt;strong&gt;Музыкальное пианино “Полянка с животными” от WToys&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Яркая музыкальная игрушка, которая точно покорит малышей! Нажимая на кнопки, ребёнок услышит звуки, стишки и песенки, а клавиши в нижней части позволят создавать собственные мелодии.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Функции:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;3 режима работы (переключаются кнопкой в виде телефона):&lt;ol&gt;&lt;li&gt;Изучаем цифры&lt;/li&gt;&lt;li&gt;8 сказок&lt;/li&gt;&lt;li&gt;Игровой режим – сочиняй свои мелодии&lt;/li&gt;&lt;/ol&gt;&lt;/li&gt;&lt;li&gt;8 кнопок в виде домашних животных с тремя уровнями взаимодействия:&lt;ul&gt;&lt;li&gt;Название животного&lt;/li&gt;&lt;li&gt;Стишок&lt;/li&gt;&lt;li&gt;Весёлая песенка&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Озвучка на украинском языке&lt;/li&gt;&lt;li&gt;Яркая подсветка&lt;/li&gt;&lt;li&gt;Развивает слух, речь и мелкую моторику&lt;/li&gt;&lt;li&gt;Работает от 3 батареек типа “AA” (в комплект не входят)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;nbsp;&lt;strong style=&quot;background-color: initial;&quot;&gt;Отличная игрушка для весёлого и полезного досуга малыша!&lt;/strong&gt;&lt;/p&gt;</description_ru>
         <price>577</price>
         <old_price>780</old_price>
-        <categoryId>119</categoryId>
+        <categoryId>120</categoryId>
         <vendor>WToys</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104963287-b5c07c8607d59120f62c631a1480f38a-1745580900840.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104963287-386821812412910f2c2e3d6311425faa-1745580902561.jpg</picture>
@@ -898,6 +917,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104963287-15fef6f83d324adbc1225d6c9d278bb7-1745580903325.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104963287-3c27abf71db1cb536262cb375770ae75-1745580904267.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104963287-1a3f40f907b14b44c646471d8351a7c0-1745580905253.jpg</picture>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
+        <param name="Тип">Тварини</param>
+        <param name="Мова">Українська</param>
+        <param name="Особливості">Музичні</param>
+        <param name="Особливості">Зі звуковими ефектами</param>
       </offer>
       <offer id="104963868" available="true">
         <name_ua>Дитяче піаніно на коляску, кроватку, музичне іграшка Лисичка підсвітка , з кріпленням для малюків (851)</name_ua>
@@ -917,6 +942,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104963868-56e83675139028bb5eddaed8ee5f9690-1745587578897.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З брязкальцем</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="105373768" available="true">
         <name_ua>Силіконові кубики, мʼячики, іграшки тактильна пірамідка набір сенсорних іграшок для малюків 20 елементів (HB 0011)</name_ua>
@@ -966,12 +993,22 @@
         <description_ru>&lt;p&gt;Класичний ксилофон, який так подобається малечі, набув ще цікавішого та оригінальнішого вигляду. Знайомий дітям функціонал доповнився яскравою стукалкою, а сам ксилофон тепер відтворює ноти без допомоги паличок, змінивши їх на кольорові важелі.&lt;/p&gt;&lt;p&gt;Іграшка познайомить дитину з нотами, навчить розрізняти кольори, рахувати від 1 до 3, стане чудовим тренажером для розвитку дрібної моторики, координації рухів та логічного мислення.&lt;/p&gt;&lt;p&gt;Особливості:&lt;/p&gt;&lt;p&gt;- яскравий корпус у стильному дизайні;&lt;/p&gt;&lt;p&gt;- має вигляд крокодильчика;&lt;/p&gt;&lt;p&gt;- іграшка поєднує одразу 2 гри: ксилофон та стукалку;&lt;/p&gt;&lt;p&gt;- при потраплянні кульки на одну з 3-х кнопок, іграшка відтворює звук;&lt;/p&gt;&lt;p&gt;- у комплекті представлений яскравий молоточок;&lt;/p&gt;&lt;p&gt;- різнобарвні пластини ксилофона прикрашені буквами та цифрами;&lt;/p&gt;&lt;p&gt;- ксилофон відтворює ноти при натисканні на важелі;&lt;/p&gt;&lt;p&gt;- іграшка виготовлена з якісних матеріалів, безпечних для здоров’я дитини.&lt;/p&gt;</description_ru>
         <price>589</price>
         <old_price>656.64</old_price>
-        <categoryId>119</categoryId>
+        <categoryId>137</categoryId>
         <vendor>TK Group</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105405884-d3cf60e5f37519c6389f71b8696a9dd1-1746105625603.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105405884-8db79a0fa7658d8b61033c6ddfd82914-1746105131300.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105405884-2bed7ba4d94dbb3bcb4a3c0bb5da2835-1746105130628.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105405884-0a086863436cbef8eee59fb7d39c2518-1746105479480.jpg</picture>
+        <param name="Тип">Стукалки</param>
+        <param name="Колір">Зелений</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="105739648" available="true">
         <name_ua>Кермо музичне іграшка інтерактивна на коляску, крісло або кроватку з кріпленнями, з мелодіями та світлом для малюків бірюзовий</name_ua>
@@ -990,6 +1027,7 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105739648-bb7cf825c8ae589efe9ad39a1b8ec0ce-1746791753580.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="109421506" available="true">
         <name_ua>Кермо музичне іграшка Каченя інтерактивна на коляску, крісло або кроватку з кріпленнями, з мелодіями та світлом для малюків</name_ua>
@@ -1006,6 +1044,7 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i102874515-4b031933e888a283f65dab79a77ceb2c-1746791313929.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="110625042" available="true">
         <name_ua>Дитяча розвиваюча гвинтова тактильна ''крутезна пірамідка 41 см'' 6 кілець  Монтессорі велика для малюків елементи різних форм в коробці</name_ua>
@@ -1080,7 +1119,7 @@
         <description_ru>&lt;h3&gt;&lt;/h3&gt;&lt;p&gt;Яркая сенсорная пирамидка&amp;nbsp; – отличная игрушка для развития малыша с первых месяцев жизни. Состоит из 6 разноцветных колец с разными текстурами и фигуркой динозавра сверху. Каждое кольцо имеет уникальную поверхность – волнистую, в форме звёзд, с выпуклыми точками или геометрическими узорами – что стимулирует тактильные ощущения и мелкую моторику.&lt;/p&gt;&lt;p&gt;Изготовлена из безопасного, приятного на ощупь силикона, эта пирамидка способствует развитию координации, логического мышления и восприятия цветов. Игрушка подходит для обучения счёту, изучения форм и цветов, а также станет отличным декором детской комнаты.&lt;/p&gt;&lt;p&gt;Характеристики:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Количество колец: 6 + фигурка&lt;/li&gt;&lt;li&gt;Разные формы и текстуры колец для сенсорного развития&lt;/li&gt;&lt;li&gt;Мягкая и безопасная для дёсен, можно использовать как прорезыватель&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Эта пирамидка станет любимой развивающей игрушкой вашего малыша и подарит часы увлекательных и безопасных игр.&lt;/p&gt;</description_ru>
         <price>399</price>
         <old_price>470</old_price>
-        <categoryId>132</categoryId>
+        <categoryId>137</categoryId>
         <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112443782-962d3bd4ea940f410115497f8f494e05-1779612760213.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112443782-f6ad1bf9fdf2f5f84d234fd7714a8b87-1779612438545.jpg</picture>
@@ -1103,6 +1142,11 @@
         <param name="Вік">Від 1.5 років</param>
         <param name="Вік">Від 2 років</param>
         <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="113794952" available="true">
         <name_ua>Дитячі кубики 8шт мʼякі з абеткою для немовлят, розвивальні водонепроникні</name_ua>
@@ -1202,7 +1246,7 @@
 &lt;p&gt;&lt;strong&gt;Идеальный подарок для ребёнка&lt;/strong&gt; – эта деревянная игрушка подарит часы увлекательной игры, научит распознавать звуки и разовьёт важные навыки, подготавливая малыша к первым музыкальным открытиям!&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/h3&gt;</description_ru>
         <price>685</price>
         <old_price>763.77</old_price>
-        <categoryId>119</categoryId>
+        <categoryId>137</categoryId>
         <vendor>TK Group</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115695993-42fef2cfa80aa29b600c26813bc6bc3d-1759076557809.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115695993-ba2ccd22eca16f15f26419d852f7dbe1-1759076572552.jpg</picture>
@@ -1210,6 +1254,15 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115695993-48de00955533ba04a380370ffd3dd76d-1759076580501.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115695993-100746a67cc18e8f4eefde7168426503-1759076600177.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115695993-6ea75e06b2b1103b8a4e4d30e5db0b8e-1759076625775.jpg</picture>
+        <param name="Тип">Стукалки</param>
+        <param name="Матеріал">Дерево</param>
+        <param name="Колір">Різнобарвний</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="115863263" available="true">
         <name_ua>Балансир деревʼянний Ноєв Ковчег інтерактивна розвиваюча гра, тварини</name_ua>
@@ -1430,6 +1483,8 @@
         <param name="Колір">Синій</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Тип">Пледи-іграшки</param>
       </offer>
       <offer id="117337497" available="true">
         <name_ua>М'яка іграшка Стіч 2в1 40см з пледом в середині дитяча іграшка (рожевий)</name_ua>
@@ -1453,6 +1508,8 @@
         <param name="Колір">Рожевий</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Тип">Пледи-іграшки</param>
       </offer>
       <offer id="117337507" available="true">
         <name_ua>М'яка іграшка Стіч 2в1 40см з пледом в середині, з качкою дитяча іграшка (синій)</name_ua>
@@ -1470,6 +1527,8 @@
         <param name="Колір">Синій</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Тип">Пледи-іграшки</param>
       </offer>
       <offer id="117379428" available="true">
         <name_ua>Силіконові тактильні іграшки — набір тварин, сенсорний конструктор для малюків, 13 елементів.</name_ua>
@@ -1492,6 +1551,7 @@
         <param name="Матеріал">Силікон</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип товару">Конструктори</param>
       </offer>
       <offer id="118479269" available="true">
         <name_ua>Інтерактивна іграшка Ведмедик казкар,  українська мова, рухи (8 казок 25см)</name_ua>
@@ -1598,6 +1658,7 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118511520-e1d894deeb8309aa883b821a5fd85929-1761730923279.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="118684222" available="true">
         <name_ua>Кермо музичне іграшка інтерактивна на коляску крісло або кроватку з кріпленнями, з мелодіями та світлом для малюків на батарейках</name_ua>
@@ -1616,6 +1677,7 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118684222-b46e73fee8dc76b425c9d5ca12f22908-1761901147895.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="118688911" available="true">
         <name_ua>Кермо музичне іграшка інтерактивна на коляску крісло або кроватку з кріпленнями, з мелодіями та світлом для малюків на батарейках (червоне)</name_ua>
@@ -1633,6 +1695,7 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118688911-e62789189435db1a728d91d2722dc563-1761903499671.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Гарантія">14 днів</param>
+        <param name="Особливості">З музикою</param>
       </offer>
       <offer id="120322975" available="true">
         <name_ua>Сортер куб дитячий дерев'яний , геометричні фігури , тваринами, та резиночками, рахівниця (СK61498)</name_ua>
@@ -1853,7 +1916,7 @@
         <description_ru>&lt;h3&gt;Детское музыкальное пианино с Украинской озвучкой.&lt;/h3&gt;&lt;p&gt;3 режима. &lt;/p&gt;&lt;p&gt;Изучайте животных весело&lt;/p&gt;&lt;p&gt;Музыкальное пианино Limo Toy FT-0001 — это увлекательная развивающая игрушка, которая познакомит ребёнка с миром звуков и музыки в игровой форме. Яркий дизайн и удобные клавиши сразу привлекают внимание малыша и побуждают его к активной игре.&lt;/p&gt;&lt;p&gt;Игрушка предлагает &lt;strong&gt;несколько режимов звучания&lt;/strong&gt;: классические ноты, звуки животных и весёлая музыка. Каждая клавиша воспроизводит отдельный звук, помогая ребёнку развивать слуховое восприятие, память и координацию движений. Световые эффекты делают игру ещё более интересной и динамичной.&lt;/p&gt;&lt;p&gt;Пианино изготовлено из прочного и безопасного пластика, подходит для ежедневного использования и удобно для маленьких детских ручек. Отличный выбор для первых музыкальных экспериментов и творческого развития малыша.&lt;/p&gt;&lt;h4&gt;Характеристики:&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;Тип игрушки: детское пианино&lt;/li&gt;&lt;li&gt;Материал: безопасный пластик&lt;/li&gt;&lt;li&gt;Рекомендуемый возраст: от 1 года&lt;/li&gt;&lt;li&gt;Режимы игры: ноты, звуки животных, мелодии&lt;/li&gt;&lt;li&gt;Музыкальные и световые эффекты&lt;/li&gt;&lt;li&gt;Питание: батарейки&lt;/li&gt;&lt;li&gt;Размер: 25 см&lt;/li&gt;&lt;li&gt;Упаковка: картонная коробка&lt;/li&gt;&lt;/ul&gt;</description_ru>
         <price>795</price>
         <old_price>980</old_price>
-        <categoryId>119</categoryId>
+        <categoryId>120</categoryId>
         <vendor>WToys</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122984102-86188ac0d21d242b0f0c6606e6ca4582-1766263455714.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122984102-9bedbb3c1ef1032aaba07f0eec7090e1-1766262931382.jpg</picture>
@@ -1863,6 +1926,16 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122984102-5ffdb9ac2d936da5aaa95f22c7578fb5-1766264262100.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122984102-c05ba160e16df9762226a9bc8e6e8033-1766264465221.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122984102-b4328b79570fc58cee9b6a38904908d0-1766264388166.jpg</picture>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
+        <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="123177770" available="true">
         <name_ua>Стукавка дитяча розвивальна багатофункціональне деревʼяна машинка  сортер з шестернями та молоточками</name_ua>
@@ -2127,7 +2200,7 @@
         <description_ru>&lt;p&gt;&lt;strong style=&quot;background-color: initial;&quot;&gt;Детское музыкальное пианино “Animal Piano” с фигурками животных&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Яркое и весёлое пианино для самых маленьких музыкантов! Игрушка оснащена разноцветными клавишами с обозначением нот и милыми изображениями животных. Каждая клавиша воспроизводит звук, помогая ребёнку развивать слух, координацию и интерес к музыке.&lt;/p&gt;&lt;p&gt;На корпусе расположены фигурки собачки, кролика и лошадки, которые можно нажимать для дополнительных звуковых эффектов. Удобная ручка позволяет легко брать пианино с собой.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Особенности:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Яркий дизайн и безопасные материалы&lt;/li&gt;&lt;li&gt;Цветные клавиши с нотами&lt;/li&gt;&lt;li&gt;Фигурки животных со звуковыми эффектами&lt;/li&gt;&lt;li&gt;Развивает музыкальный слух, моторику и воображение&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Отличный подарок для малышей, которые любят музыку и весёлых зверят!&lt;/p&gt;&lt;p&gt;размер 20х14 см&lt;/p&gt;</description_ru>
         <price>199</price>
         <old_price>249</old_price>
-        <categoryId>119</categoryId>
+        <categoryId>120</categoryId>
         <vendor>WToys</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124893032-07f1fd7ba531006477fdf691ff6002bc-1768924530513.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124893032-c51a59bfce807b6d16a5cbca74b28bf6-1768925248837.jpg</picture>
@@ -2136,6 +2209,13 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124893032-f992ca9f3c9af9a3f088de2f3b1719db-1768924682356.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124893032-b3696f08a1e6f1d98be80953d7439d05-1768924855244.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124893032-7295f580aeb93387863de1a28c801d58-1768924855848.jpg</picture>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
+        <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="125231129" available="false">
         <name_ua>М'яка іграшка дихаюча видра для сну казкові сни видренятка з  мелодіями світлом і реалістичними звуками дихання та сопіння як у дитини немовляти  на подарунок нічники для новонароджених дітей сіра</name_ua>
@@ -2156,6 +2236,9 @@
         <param name="Колір">Сірий</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Особливості">Звукові ефекти</param>
+        <param name="Особливості">Світлові ефекти</param>
       </offer>
       <offer id="125231280" available="false">
         <name_ua>М'яка іграшка дихаюча Видра для сну казкові сни видренятка з  мелодіями світлом і реалістичними звуками дихання та сопіння як у дитини немовляти  на подарунок нічники для новонароджених дітей бежева</name_ua>
@@ -2173,6 +2256,9 @@
         <param name="Колір">Бежевий</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Особливості">Звукові ефекти</param>
+        <param name="Особливості">Світлові ефекти</param>
       </offer>
       <offer id="125360365" available="true">
         <name_ua>Іграшка Монтесорі деревʼяні пазли танграм фігур 6 карток тварин и головоломка для дітей розвиваюча настільна гра  мозаїка логічні завдання (СK74365)</name_ua>
@@ -2196,6 +2282,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125360365-160f6197b929e0743a3d9340ac6eac0c-1769440455051.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125360365-579dbb9a57a9bee9e086111eec06b554-1769440176195.jpg</picture>
         <param name="Гарантія">14 днів</param>
+        <param name="Властивості пазлів">Пазли-вкладиші</param>
+        <param name="Матеріал">Дерево</param>
       </offer>
       <offer id="125650347" available="false">
         <name_ua>Игровой сортер-пирамидка, деревянная игрушка, разноцветные камешки 11шт для малыша, детский балансир</name_ua>
@@ -2387,7 +2475,7 @@
 &lt;/section&gt;</description_ru>
         <price>599</price>
         <old_price>780</old_price>
-        <categoryId>119</categoryId>
+        <categoryId>120</categoryId>
         <vendor>WToys</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i132973332-c304eb52944dcd2fa8da70e71b11e278-1777208819247.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i132973332-bb5f346e4240c78d7bd5fcc9b73fe401-1777208819628.jpg</picture>
@@ -2396,6 +2484,11 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i132973332-ea31427398cf4a7f63da58c8d0adf38e-1777208820111.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i132973332-92a4ca719df4d9ed155b7047ba8837b7-1777208820866.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i132973332-532f7957c74001440de93a0a2410506c-1777209012684.jpg</picture>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
+        <param name="Мова">Українська</param>
+        <param name="Особливості">Зі звуковими ефектами</param>
+        <param name="Особливості">Зі світловими ефектами</param>
       </offer>
       <offer id="134133730" available="true">
         <name_ua>Розвиваюча іграшка лабіринт Жирафка для малюків, дитяча пірамідка кольорова башня спуск з 2 кульками Мавпочка (CKYL1306)</name_ua>
@@ -2829,6 +2922,7 @@
         <param name="Матеріал">Силікон</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип товару">Конструктори</param>
       </offer>
       <offer id="136869612" available="false">
         <name_ua>Силиконові мячики дитячі, сенсорні тактильні набір 6 шт розвивальні кульки різні структури. (СK795-39)</name_ua>
@@ -3241,6 +3335,7 @@
         <param name="Матеріал">Силікон</param>
         <param name="Стать">Хлопчик</param>
         <param name="Стать">Дівчинка</param>
+        <param name="Тип товару">Конструктори</param>
       </offer>
       <offer id="141879057" available="true">
         <name_ua>Дитячий інтерактивний планшет абетка Твоя перша книга музична , геометричні фігури, цифри, тварини, казки</name_ua>
@@ -3303,6 +3398,8 @@
         <param name="Вік">Від 4 років</param>
         <param name="Вік">Від 5 років</param>
         <param name="Вік">Від 6 років</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Особливості">Світлові ефекти</param>
       </offer>
       <offer id="141987968" available="true">
         <name_ua>Інтерактивна дихаюча іграшка , зайченя блакитний з мелодіями світловими ефектами та рухами (INT 0005)</name_ua>
@@ -3336,6 +3433,8 @@
         <param name="Вік">Від 4 років</param>
         <param name="Вік">Від 5 років</param>
         <param name="Вік">Від 6 років</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Особливості">Світлові ефекти</param>
       </offer>
       <offer id="141988350" available="true">
         <name_ua>Інтерактивна дихаюча іграшка , зайченя білий з мелодіями світловими ефектами та рухами (INT 0005)</name_ua>
@@ -3371,6 +3470,8 @@
         <param name="Вік">Від 4 років</param>
         <param name="Вік">Від 5 років</param>
         <param name="Вік">Від 6 років</param>
+        <param name="Тип">М'які іграшки</param>
+        <param name="Особливості">Світлові ефекти</param>
       </offer>
     </offers>
   </shop>
