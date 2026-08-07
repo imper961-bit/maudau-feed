@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-06 20:00">
+<yml_catalog date="2026-08-07 10:50">
   <shop>
     <categories>
       <category id="137" portal_id="137">Розвиваючі іграшки</category>
@@ -30,8 +30,11 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71725722-8eb1f024af882116a4fcb1aabbd54034.jpg</picture>
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="71884399" available="false">
         <name_ua>Дошка розвиваючий центр гра сортер для малюків 5в1 абетка математика геометрика рибалка Монтессорі сортер (90135)</name_ua>
@@ -51,8 +54,13 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="71885587" available="false">
@@ -72,7 +80,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71697978-d4d5cc69f3d52c7c57fad65fcf162989.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71594286-8b93268028d0e570762b9480ff6b32a8.jpg</picture>
         <param name="Матеріал">Дерево</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="72551886" available="true">
         <name_ua>Пальчіковий лабірінт для дітей, міні бізіборд, розвивальна дерев'яна іграшка для малюків</name_ua>
@@ -89,8 +98,17 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i72551886-bc9e75e08e78cee8ca754f811f23dc79.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="72880496" available="true">
@@ -113,8 +131,13 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="79423487" available="true">
@@ -133,8 +156,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79423487-4df5a679428c990fa16bd013daf7c3b8-1729677657113.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="79454527" available="true">
         <name_ua>Розвиваюча іграшка для малюків, пірамідка кольорова вега башта вежа з деталей Fun Game</name_ua>
@@ -152,8 +179,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79454527-b71bc9f1591a3bacf126bba2c921e11a-1729677554397.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="79499543" available="false">
         <name_ua>Розвиваюча іграшка для малюків, дитяча пірамідка кольорова мелодії, сенсорна з прорізувачем. Монтессорі</name_ua>
@@ -171,7 +202,11 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79499543-2f675c22d72060de17a53867fc941314-1729689604867.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79499543-acec9a6c15a0eac814c657ce6b94ea30-1729689604349.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 2.5 років</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 2.5 років</param>
       </offer>
       <offer id="79499582" available="true">
         <name_ua>Розвиваюча іграшка для малюків, Крутецька дитяча пірамідка кольорова в башта вежа з шестерень 5шт Монтессорі</name_ua>
@@ -188,8 +223,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79499582-b71bc9f1591a3bacf126bba2c921e11a-1729677712738.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="80529181" available="true">
         <name_ua>Дошка розвиваючий центр гра сортер для малюків 3в1 математика геометрика рибалка транспорт фрукти Монтессорі сортер. Дерев'яна (MD2901)</name_ua>
@@ -210,8 +249,13 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="81829276" available="false">
@@ -231,8 +275,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i81829276-b71bc9f1591a3bacf126bba2c921e11a-1729677828325.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="86962760" available="true">
         <name_ua>Куб сортер развивающий с набором 6 геометрический фигур Монтессори сортер  со шнуровкой, тактильный логический (CUB6)</name_ua>
@@ -251,8 +299,14 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i86962760-baea22cb58b1d15101462413f878da56-1729600705346.jpg</picture>
         <param name="Тип">Сортери</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="95057056" available="true">
@@ -273,7 +327,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95057056-032b2cc936860b03048302d991c3498f-1734335453680.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95057056-fed1da6da79ca8f0cba2aa0c88e14d9e-1734090713889.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95057056-72a52fffe34947dfbf0ef41555e3cc80-1734090729284.jpg</picture>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="95059252" available="false">
         <name_ua>Мягкая игрушка дышащая Выдра для сна сказочные сны выдрочка с мелодиями светом и реалистичными звуками дыхания и сопения как у младенца на подарок ночники для новорожденных детей розовая</name_ua>
@@ -290,7 +345,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059252-ae566253288191ce5d879e51dae1d8c3-1734335561862.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059252-8cda81fc7ad906927144235dda5fdf15-1734335561110.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059252-7ea1088bd9a83e4695add8833d537962-1734335799686.jpg</picture>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="95059275" available="false">
         <name_ua>Мягкая игрушка дышащая Выдра для сна сказочные сны выдрочка с мелодиями светом и реалистичными звуками дыхания и сопения как у младенца на подарок ночники для новорожденных детей голубая</name_ua>
@@ -307,7 +363,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059275-9741c5469d116c0f32aed924e83c3d54-1734359851391.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059275-61f88218983dc382b67b82c64e26cd23-1734359851831.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059275-db3da5a5780deb51ae1f437b5d96ebc7-1734359850949.jpg</picture>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="100102328" available="true">
         <name_ua>Куб сортер розвиваючий центр гра для дітей,  геометричні фігури, резиночки. Монтесорі сортер 10 фігур (НЕ0211)</name_ua>
@@ -331,8 +388,18 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="102874515" available="true">
@@ -366,8 +433,23 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103173945-0c5fa892bc1dcff09af4dafcc8552e46-1743343529781.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103173945-78749c1faa6519506827ab3e20e65985-1743343529360.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103173945-be172826fd3f4d8e8fd1664094ff94bc-1743343643341.jpg</picture>
-        <param name="Вік">Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="103272652" available="false">
         <name_ua>Розвиваюча іграшка лабіринт Жирафка для малюків, дитяча пірамідка кольорова башня спуск з 5 кульками та баскетбольним кільцем 40 см</name_ua>
@@ -385,8 +467,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103272652-8416be70e3bb4d5dcbcf6b9955f5a743-1743496353632.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103272652-100c1deb4c3d9f756b02e95d049718fa-1743496366199.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="103299019" available="false">
         <name_ua>Розвиваюча іграшка для малюків, Крутецька дитяча пірамідка кольорова в башта вежа з шестерень Монтессорі 10*20 см</name_ua>
@@ -405,8 +491,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i81829276-b71bc9f1591a3bacf126bba2c921e11a-1729677828325.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="103299033" available="true">
         <name_ua>Дитячий інтерактивний планшет абетка Твоя перша книга музична , геометричні фігури, цифри, тварини, казки.</name_ua>
@@ -426,8 +516,14 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103299033-b6f3a999221f67e01ef247c29e0d291a-1743590842634.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103299033-d09c4bfe68f1056bb523230eacbd7bb6-1743590858121.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років, Від 7 років, Від 8 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Вік">Від 7 років</param>
+        <param name="Вік">Від 8 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="103374021" available="true">
@@ -448,8 +544,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103374021-b15021d98307b0e2463333fd87c3aafc-1767624817521.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="103391468" available="true">
         <name_ua>Куб сортер развивающий с набором 6 геометрический фигур Монтессори сортер  со шнуровкой, тактильный логический,  пластик (CUB61)</name_ua>
@@ -469,8 +569,14 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103391468-6155711111ef5c43b5ac3ed3e1fe7bd5-1743517952318.jpg</picture>
         <param name="Тип">Сортери</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="103391691" available="false">
@@ -492,8 +598,14 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103391691-939e8084dc388122a55da07397bae26c-1743519042437.jpg</picture>
         <param name="Тип">Сортери</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="103597375" available="false">
@@ -509,8 +621,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103597375-69b71cee5acc9b954b3f85e8580e1411-1743671494044.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103597375-71b2a1667f4c0139598b8e4f4cf70ed5-1743671493679.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103597375-a08b635949605a3a8ba70baf11597141-1743671494436.jpg</picture>
-        <param name="Вік">Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років, Від 7 років, Від 8 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Вік">Від 7 років</param>
+        <param name="Вік">Від 8 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="103603690" available="false">
         <name_ua>Краб інтерактивний заводний для малюків з мотузкою, плаває у воді, бігає, на мотузці</name_ua>
@@ -524,8 +649,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103603690-ba6a7d13aa20c32783469b86e311ad06-1743675204071.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103603690-bcfbc98e1c28f4dc3cd535fceb53a957-1743675162182.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103603690-79acd9349b089c4e4a7a93f992a36856-1743674949216.jpg</picture>
-        <param name="Вік">Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років, Від 7 років, Від 8 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Вік">Від 7 років</param>
+        <param name="Вік">Від 8 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="103608447" available="false">
         <name_ua>Кермо музичне іграшка інтерактивна на, з мелодіями та світлом для малюків , українська озвучка казки та пісні</name_ua>
@@ -567,8 +705,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104093369-ac6c698381f4003ce8dcc2ee9b1fc9c5-1744309812932.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="104100555" available="true">
         <name_ua>Силиконові мячики дитячі, сенсорні тактильні набір 6 шт розвивальні кульки в коробці</name_ua>
@@ -591,8 +742,21 @@
         <param name="Тип">М'ячики для малюків</param>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="104160128" available="true">
         <name_ua>Силиконові мячики дитячі, сенсорні тактильні набір 6 шт розвивальні кульки в подарунковій коробці різні структури</name_ua>
@@ -611,8 +775,21 @@
         <param name="Тип">М'ячики для малюків</param>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="104164103" available="false">
         <name_ua>Дзига дитяча іграшка з кульками для малюків бірюзова</name_ua>
@@ -633,8 +810,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-2d3cb1fd91d6041d2e2c8d9383e650ae-1744465739622.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-a565cc48ed6d01b00b2df1d2ab068b52-1744465740288.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-6969b3e589bbc4a078d2fad263d38b1a-1744465769180.jpg</picture>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="104164232" available="false">
         <name_ua>Дзига дитяча іграшка з кульками для малюків рожева</name_ua>
@@ -654,8 +844,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-226d55b0fb42766880c8aeaccb321390-1744466030927.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-123c674c36f66c8e659bc695d06eaef7-1744466029497.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-fb76de3d8650ee5eb5e85254ae76f1f5-1744466030208.jpg</picture>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="104963287" available="false">
         <name_ua>Дитяче піаніно музичне з озвучкою на українській мові, казки, пісні, вірші та тварини</name_ua>
@@ -715,8 +918,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105373768-52ae371c24b398d54860774a63f5d773-1746087035273.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="105405884" available="false">
@@ -782,8 +998,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103374021-a6fefd487d77162513d2f636105afbe8-1743512668303.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="112442359" available="true">
         <name_ua>Силіконова пірамідка, кільця набір сенсорних іграшок для малюка.</name_ua>
@@ -804,8 +1024,25 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112442359-60dcabc65c04fa7894615adf4ae04d77-1779613442178.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 2 місяців, Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 2 місяців</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="112443782" available="true">
         <name_ua>Силіконова пірамідка, кільця, набір сенсорних іграшок для малюка, гризунок</name_ua>
@@ -824,7 +1061,20 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112443782-a7a9136d3152b50469f64a94ea5ca2af-1779613313503.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 2 місяців, Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
+        <param name="Вік">Від 2 місяців</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
       </offer>
       <offer id="113794952" available="true">
         <name_ua>Дитячі кубики 8шт мʼякі з абеткою для немовлят, розвивальні водонепроникні</name_ua>
@@ -840,8 +1090,24 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i113794952-21557fe7d2c82b1b32f145398bc807b1-1756731015283.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i113794952-2b6eb5190ae83eabaade7d6217ff2883-1756731009043.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="115695933" available="true">
         <name_ua>Стукавка дитяча розвивальна багатофункціональне деревʼяна машинка з шестернями та молоточками</name_ua>
@@ -865,8 +1131,12 @@
         <param name="Тип">Стукалки</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="115695993" available="true">
         <name_ua>Стукавка дитяча розвивальна багатофункціональне деревʼяна машинка з ксилофоном та молоточками</name_ua>
@@ -934,8 +1204,12 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="116000787" available="false">
         <name_ua>Сортер дитячий по кольорам чарівне яблуко розвивальна іграшка за методом Монтессорі</name_ua>
@@ -956,8 +1230,12 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="116152064" available="false">
@@ -979,10 +1257,24 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116152064-b91b21cb357493b50218050de96d5c5f-1759487498299.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116152064-0ee77c1326f97f4f52b9e681dae7b358-1759487477679.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116152064-dd3883e654e247102e4db9af5e6f9563-1759487614754.jpg</picture>
-        <param name="Матеріал">Пластик, Силікон</param>
+        <param name="Матеріал">Пластик</param>
+        <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="116184430" available="true">
         <name_ua>Сортер дитячий Ферма дерев'яний , машинка каталка з овочами , тваринами, та червячками, куб</name_ua>
@@ -1007,8 +1299,13 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="116525397" available="true">
@@ -1031,7 +1328,8 @@
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Зелений</param>
         <param name="Вік">Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="116527393" available="false">
@@ -1053,7 +1351,8 @@
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Рожевий</param>
         <param name="Вік">Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="116861663" available="false">
@@ -1075,7 +1374,8 @@
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Жовтий</param>
         <param name="Вік">Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="117279729" available="true">
@@ -1091,7 +1391,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117279729-3e7fdbae111d4366a2cc632cd7983283-1760216550218.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117279729-2998cd9cba747697d8298c753f31ad4f-1760216551710.jpg</picture>
         <param name="Колір">Синій</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="117337497" available="true">
         <name_ua>М'яка іграшка Стіч 2в1 40см з пледом в середині дитяча іграшка (рожевий)</name_ua>
@@ -1112,7 +1413,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337497-4736ac38e3e8ab3718452774f1ff76aa-1760217907272.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337497-a64bd829c64a46c9de5bb2c87416a814-1760217952703.jpg</picture>
         <param name="Колір">Рожевий</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="117337507" available="true">
         <name_ua>М'яка іграшка Стіч 2в1 40см з пледом в середині, з качкою дитяча іграшка (синій)</name_ua>
@@ -1127,7 +1429,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337507-052420a5bd73093e2bf8bb3b8ea5b7de-1760218346738.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337507-4f82b1a427783ad9073dd628934a1f9f-1760218345106.jpg</picture>
         <param name="Колір">Синій</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="117379428" available="true">
         <name_ua>Силіконові тактильні іграшки — набір тварин, сенсорний конструктор для малюків, 13 елементів.</name_ua>
@@ -1147,7 +1450,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-abc35d887dca511ba0f87d274002c540-1760257753543.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-c30fed8d28a202b376e9325be98e5672-1760257755112.jpg</picture>
         <param name="Матеріал">Силікон</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="118479269" available="true">
         <name_ua>Інтерактивна іграшка Ведмедик казкар,  українська мова, рухи (8 казок 25см)</name_ua>
@@ -1305,8 +1609,13 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="120323127" available="false">
@@ -1335,8 +1644,13 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="120494018" available="false">
@@ -1355,8 +1669,21 @@
         <param name="Тип">М'ячики для малюків</param>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="120494489" available="false">
@@ -1375,8 +1702,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120494489-941b2c0536dd74a31e911c084142ecc9-1763566990172.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="122443770" available="false">
@@ -1401,8 +1741,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122443770-5eb466985be0a77ceef29c48751b52f4-1765798790008.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="122533228" available="true">
@@ -1432,8 +1785,13 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="122984102" available="false">
@@ -1475,8 +1833,12 @@
         <param name="Тип">Стукалки</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="123562696" available="false">
         <name_ua>Куб сортер розвиваючий центр гра для дітей,  геометричні фігури, резиночки. Монтесорі сортер бізі куб (YL 1303 CA)</name_ua>
@@ -1504,8 +1866,18 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="123799272" available="true">
@@ -1525,8 +1897,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103374021-a6fefd487d77162513d2f636105afbe8-1743512668303.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="124043012" available="true">
         <name_ua>Дошка розвиваючий центр гра сортер для малюків 3в1 Абетка математика геометрика рибалка транспорт фрукти Монтессорі сортер. Дерев'яна (MDCK1342)</name_ua>
@@ -1547,8 +1923,11 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="124044410" available="true">
@@ -1570,8 +1949,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103272652-ee746a5e34adb0b9962ee564f31c1890-1743496541069.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103272652-8416be70e3bb4d5dcbcf6b9955f5a743-1743496353632.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="124074792" available="true">
         <name_ua>Шнурівка балансир деревʼянний Ноєв Ковчег інтерактивна розвиваюча гра, тварини (CKС75592)</name_ua>
@@ -1594,8 +1977,12 @@
         <param name="Тип">Шнурівки</param>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="124440777" available="false">
         <name_ua>Інтерактивна іграшка Ведмедик казкар, дитяча музична іграшка українська мова (19 казок, 38 пісень)</name_ua>
@@ -1658,8 +2045,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124457466-a208389a1ab91fc5f8f9aaf1530761dc-1768320856176.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="124893032" available="true">
@@ -1696,7 +2096,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231129-fc54a4e631e4d15107120b2551403d25-1769359496814.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231129-ea98a73d2d6f6420f2044880159b98d3-1769359507595.jpg</picture>
         <param name="Колір">Сірий</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="125231280" available="false">
         <name_ua>М'яка іграшка дихаюча Видра для сну казкові сни видренятка з  мелодіями світлом і реалістичними звуками дихання та сопіння як у дитини немовляти  на подарунок нічники для новонароджених дітей бежева</name_ua>
@@ -1711,7 +2112,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231280-d1d8082c966b89fec6928c4320a26f29-1769360527391.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231280-ff2204c76683dec9bfc354708788fa75-1769359868030.jpg</picture>
         <param name="Колір">Бежевий</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="125360365" available="true">
         <name_ua>Іграшка Монтесорі деревʼяні пазли танграм фігур 6 карток тварин и головоломка для дітей розвиваюча настільна гра  мозаїка логічні завдання (СK74365)</name_ua>
@@ -1778,8 +2180,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125650347-8062573984e662b7d27085058e5dbf23-1769789294111.jpg</picture>
         <param name="Матеріал">Дерево</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="126699053" available="true">
         <name_ua>Сортер дитячий по кольорам 5 Пташок розвивальна іграшка за методом Монтессорі</name_ua>
@@ -1826,8 +2232,12 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1.5 років, Від 2 років, Від 3 років, Від 4 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="127531313" available="false">
@@ -1848,8 +2258,21 @@
         <param name="Тип">М'ячики для малюків</param>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="132973332" available="true">
@@ -1930,8 +2353,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134133730-4b30307fac286a01c74d25c267e862f4-1778157706391.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103272652-8416be70e3bb4d5dcbcf6b9955f5a743-1743496353632.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="134137299" available="true">
         <name_ua>Картрідер навчальний Жирафа Всезнайко  Українька озвучка для дітей,244 зображення 122 картки, вірші дитячий інтерактивний планшет</name_ua>
@@ -2065,8 +2492,17 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134137299-64bc5b8d4d674f38858c958da1a54a1e-1778161744288.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134137299-13d64f1e63c22ef982146bca118df851-1778161854999.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134137299-6166b55cf1ad6588f2ddfd6dfcae118e-1778161855231.jpg</picture>
-        <param name="Вік">Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років, Від 7 років, Від 8 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Вік">Від 7 років</param>
+        <param name="Вік">Від 8 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="134271920" available="true">
@@ -2088,8 +2524,12 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134271920-3060ad13178be88be7d38ca7f73e8bb7-1778332229261.jpg</picture>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="134980155" available="true">
@@ -2110,8 +2550,14 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134980155-1f4cd0311efccd846cad97e4795d2149-1779030353230.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134980155-ef1415f4cc6704bd3e877be10f77e5cb-1779030397018.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років, Від 7 років, Від 8 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Вік">Від 7 років</param>
+        <param name="Вік">Від 8 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="135531616" available="true">
@@ -2185,8 +2631,23 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531616-73d2a0885a6cd2e70000ae3469322de9-1779617374515.jpg</picture>
         <param name="Матеріал">Текстиль</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 місяця, Від 2 місяців, Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 місяця</param>
+        <param name="Вік">Від 2 місяців</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 місяців</param>
       </offer>
       <offer id="135531746" available="true">
@@ -2261,8 +2722,23 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531746-3d5851c9c8db42abc2741136cf5337e9-1779618492149.jpg</picture>
         <param name="Матеріал">Текстиль</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 1 місяця, Від 2 місяців, Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 1 місяця</param>
+        <param name="Вік">Від 2 місяців</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 місяців</param>
       </offer>
       <offer id="136869599" available="true">
@@ -2283,7 +2759,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-abc35d887dca511ba0f87d274002c540-1760257753543.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-c30fed8d28a202b376e9325be98e5672-1760257755112.jpg</picture>
         <param name="Матеріал">Силікон</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="136869612" available="false">
         <name_ua>Силиконові мячики дитячі, сенсорні тактильні набір 6 шт розвивальні кульки різні структури. (СK795-39)</name_ua>
@@ -2302,8 +2779,21 @@
         <param name="Тип">М'ячики для малюків</param>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="136869715" available="true">
@@ -2321,8 +2811,21 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869715-7108d4e69f4f28f1ed6e6b083abe03a0-1780838686499.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="136869901" available="true">
         <name_ua>Сортер дитячий по кольорам Курча та 12 яєць, цифри ,форми та овочі</name_ua>
@@ -2348,8 +2851,12 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="136879890" available="true">
@@ -2489,8 +2996,12 @@
         <param name="Тип">Сортери</param>
         <param name="Матеріал">Пластик</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="137014295" available="true">
@@ -2510,8 +3021,25 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014295-837b99b21052f4776915b6d1b4e65236-1781011908923.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 2 місяців, Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 2 місяців</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="137014797" available="true">
         <name_ua>Силіконова пірамідка лисичка, кільця набір сенсорних іграшок для малюка.</name_ua>
@@ -2529,8 +3057,25 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014797-4aa1693e9e67f844acdaf519af99edde-1781012907917.jpg</picture>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 2 місяців, Від 3 місяців, Від 4 місяців, Від 5 місяців, Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 2 місяців</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 5 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="137015307" available="true">
         <name_ua>Силиконові мячики дитячі, сенсорні тактильні набір 6 шт розвивальні кульки різні структури. (KM261)</name_ua>
@@ -2549,8 +3094,21 @@
         <param name="Тип">М'ячики для малюків</param>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="137017162" available="true">
         <name_ua>Силиконові мячики Пастель дитячі, сенсорні тактильні набір 6 шт розвивальні кульки різні структури. (KM261)</name_ua>
@@ -2570,8 +3128,21 @@
         <param name="Тип">М'ячики для малюків</param>
         <param name="Матеріал">Силікон</param>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 6 місяців, Від 7 місяців, Від 8 місяців, Від 9 місяців, Від 10 місяців, Від 11 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 7 місяців</param>
+        <param name="Вік">Від 8 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 10 місяців</param>
+        <param name="Вік">Від 11 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="141878569" available="true">
         <name_ua>Силіконові тактильні іграшки — набір тварин, сенсорний конструктор для малюків, 13 елемент</name_ua>
@@ -2591,7 +3162,8 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-abc35d887dca511ba0f87d274002c540-1760257753543.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-c30fed8d28a202b376e9325be98e5672-1760257755112.jpg</picture>
         <param name="Матеріал">Силікон</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
       </offer>
       <offer id="141879057" available="true">
         <name_ua>Дитячий інтерактивний планшет абетка Твоя перша книга музична , геометричні фігури, цифри, тварини, казки</name_ua>
@@ -2611,8 +3183,14 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103299033-b6f3a999221f67e01ef247c29e0d291a-1743590842634.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103299033-d09c4bfe68f1056bb523230eacbd7bb6-1743590858121.jpg</picture>
         <param name="Колір">Різнобарвний</param>
-        <param name="Вік">Від 3 років, Від 4 років, Від 5 років, Від 6 років, Від 7 років, Від 8 років</param>
-        <param name="Стать">Хлопчик, Дівчинка</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
+        <param name="Вік">Від 7 років</param>
+        <param name="Вік">Від 8 років</param>
+        <param name="Стать">Хлопчик</param>
+        <param name="Стать">Дівчинка</param>
         <param name="Гарантія">14 днів</param>
       </offer>
       <offer id="141977469" available="true">
@@ -2636,7 +3214,17 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141977469-fdb534ba16dacf67c53f7221cefc3ffb-1784898178006.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141977469-cbddeffc417f41270fd486b787685af4-1784898246539.jpg</picture>
         <param name="Колір">Рожевий</param>
-        <param name="Вік">Від 3 місяців, Від 4 місяців, Від 6 місяців, Від 9 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
       </offer>
       <offer id="141987968" available="true">
         <name_ua>Інтерактивна дихаюча іграшка , зайченя блакитний з мелодіями світловими ефектами та рухами (INT 0005)</name_ua>
@@ -2658,7 +3246,17 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141987968-fe7d793a3a6c0a79cb91e5446ee1794d-1784900176056.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141987968-248c4da26eb1bdc419058d104fc02e51-1784900185782.jpg</picture>
         <param name="Колір">Блакитний</param>
-        <param name="Вік">Від 3 місяців, Від 4 місяців, Від 6 місяців, Від 9 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
       </offer>
       <offer id="141988350" available="true">
         <name_ua>Інтерактивна дихаюча іграшка , зайченя білий з мелодіями світловими ефектами та рухами (INT 0005)</name_ua>
@@ -2682,7 +3280,17 @@
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141988350-51d6b3488707c25d29a22bd9a15ccff6-1784901696164.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141988350-56b13560e2d2b55f0119254f1b55747d-1784901740168.jpg</picture>
         <param name="Колір">Білий</param>
-        <param name="Вік">Від 3 місяців, Від 4 місяців, Від 6 місяців, Від 9 місяців, Від 1 року, Від 1.5 років, Від 2 років, Від 3 років, Від 4 років, Від 5 років, Від 6 років</param>
+        <param name="Вік">Від 3 місяців</param>
+        <param name="Вік">Від 4 місяців</param>
+        <param name="Вік">Від 6 місяців</param>
+        <param name="Вік">Від 9 місяців</param>
+        <param name="Вік">Від 1 року</param>
+        <param name="Вік">Від 1.5 років</param>
+        <param name="Вік">Від 2 років</param>
+        <param name="Вік">Від 3 років</param>
+        <param name="Вік">Від 4 років</param>
+        <param name="Вік">Від 5 років</param>
+        <param name="Вік">Від 6 років</param>
       </offer>
     </offers>
   </shop>
