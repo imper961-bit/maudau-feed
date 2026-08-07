@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-07 10:50">
+<yml_catalog date="2026-08-07 12:00">
   <shop>
     <categories>
       <category id="137" portal_id="137">Розвиваючі іграшки</category>
@@ -24,6 +24,7 @@
         <price>249</price>
         <old_price>499</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71725722-304a53682b4f1e2f546573eeea65f2df.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71725722-1af37d3f648219d04783f0dd9a83c140.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71725722-dde6457e9da9115fc96684ede5e8c79f.jpg</picture>
@@ -46,6 +47,7 @@
         <price>499</price>
         <old_price>600</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71884399-fc5b7ebabf2b6e5624b8fe8b8c3e4960.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71719876-3f689c8d277a7c80c3a5709c3686c548.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71884399-a2b925443eb541dbf8c65eb2a2ae48c6.jpg</picture>
@@ -71,6 +73,7 @@
         <price>1099</price>
         <old_price>1255.45</old_price>
         <categoryId>123</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71697978-2dad0f732486c1ef52219c5e7eebb09e.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71078989-678ea320fc0be7ecd5c39b8d567b463b.jpg</picture>
@@ -91,6 +94,7 @@
         <price>171</price>
         <old_price>199</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Україна</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i72551886-0fde73db9c7f43245cadf2922689fba6.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i72551886-477c7ad0812723b8996c2378491f6a1b.jpg</picture>
@@ -123,6 +127,7 @@
         <price>629</price>
         <old_price>720</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i72880496-ef207e1ee2c7fa61a1b4ba10ffe08af1.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i72880496-afa9b443673e074b536ce862972c9443.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i71719876-41140aadc25133719213ed374916b63f.jpg</picture>
@@ -216,6 +221,7 @@
         <price>420</price>
         <old_price>799</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79499582-aa87f512cd2c9f919cd62e1a8ec2548e-1729677712218.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i79499582-718dabf4a2bef33b0b0cdd562e651640-1729677712006.jpg</picture>
@@ -238,6 +244,7 @@
         <price>649</price>
         <old_price>820</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i80529181-4460154739670828f178fcb7eb70cf1f-1783584622228.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i80529181-702fcc24d386c3a98379e9af4e53bc5a-1783584890529.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i80529181-489605eef39edfd6c55dd196bd89205e-1783584661480.jpg</picture>
@@ -319,6 +326,7 @@
         <price>599</price>
         <old_price>999</old_price>
         <categoryId>120</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95057056-fe5df232cafa4c4e0f1a0294418e5660-1734335455029.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95057056-f3ccdd27d2000e3f9255a7e3e2c48800-1734335451130.jpg</picture>
@@ -340,6 +348,7 @@
         <price>599</price>
         <old_price>999</old_price>
         <categoryId>120</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059252-30e62fddc14c05988b44e7c02788e187-1734335561500.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059252-ae566253288191ce5d879e51dae1d8c3-1734335561862.jpg</picture>
@@ -357,6 +366,7 @@
         <price>599</price>
         <old_price>999</old_price>
         <categoryId>120</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059275-697a2fc9b437bd4ffa11433dd8910f60-1734359839373.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i95059275-4e28b97d0c5ceff95810d033b99a9990-1734091493521.jpg</picture>
@@ -375,6 +385,7 @@
         <price>399</price>
         <old_price>520</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i100102328-1bee02a3492e27a996b44539448df091-1740396769203.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i100102328-9c01bedc7a5eb7a6bd810e910c0495d9-1740396769479.jpg</picture>
@@ -412,6 +423,7 @@
         <price>599</price>
         <old_price>760</old_price>
         <categoryId>96</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i102874515-d50627717ac9446ec330cab2a297c4b2-1761728406628.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i102874515-08c488f1220ec65ece160203bd279b01-1761728407011.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i102874515-9accd8ae44b26ed45954c43a431abe88-1761728407451.jpg</picture>
@@ -428,6 +440,7 @@
         <price>499</price>
         <old_price>780</old_price>
         <categoryId>120</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103173945-bb384291bc73744adc6f982433665556-1743343530558.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103173945-95fc13e8f7a281c633b486c24c18c527-1743343530179.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103173945-0c5fa892bc1dcff09af4dafcc8552e46-1743343529781.jpg</picture>
@@ -459,6 +472,7 @@
         <price>369</price>
         <old_price>799</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103272652-0df8460afcdab94339875b4782d30fbd-1743495630284.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103272652-2dc07ad3619544c60c9d5a904e4f262b-1743496353191.jpg</picture>
@@ -590,6 +604,7 @@
         <price>479</price>
         <old_price>600</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103391691-68f2e53e3e4e5befc0e5cc383a0c898c-1743519041996.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103391691-6e520611c0fd32fb59580174ba1f831a-1743519388060.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103391691-095a5937df67c2e76f06fefe85576260-1743518754519.jpg</picture>
@@ -616,6 +631,7 @@
         <price>240</price>
         <old_price>500</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103597375-e568374c5a8b8f63bc8ed8df7939e26a-1743671493457.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103597375-45dbf7cbe1176879fb1753b39bcb4947-1743671874086.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103597375-69b71cee5acc9b954b3f85e8580e1411-1743671494044.jpg</picture>
@@ -645,6 +661,7 @@
         <price>240</price>
         <old_price>500</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103603690-867402438b3092a8cf6b2632f3f9e107-1743748456489.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103603690-ba6a7d13aa20c32783469b86e311ad06-1743675204071.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103603690-bcfbc98e1c28f4dc3cd535fceb53a957-1743675162182.jpg</picture>
@@ -675,6 +692,7 @@
         <price>549</price>
         <old_price>760</old_price>
         <categoryId>96</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103608447-10cf1ff43d34009c2dc4523384435a4b-1743681059855.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103608447-019c63ccd06c247f76150d5704af829e-1743681072762.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i103608447-941fa675f883c56b9e8e9135f2d0427c-1743681077174.jpg</picture>
@@ -695,6 +713,7 @@
         <price>335</price>
         <old_price>400</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104093369-1222990cd6fc9be8f82cbbe6eb66e44a-1744309808268.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104093369-12682b8484e436cf12d4a792da2b4852-1744309811175.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104093369-923f1babe5f9e116335c2f140d533a36-1744309810612.jpg</picture>
@@ -731,6 +750,7 @@
         <price>273</price>
         <old_price>299</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104100555-132ae41a6b06aad6a5281c0cae2258cf-1744312453825.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104100555-d234b11067522345bc4438d4321d6d8d-1744313570029.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104100555-c5f984b68fd7f651ae0db85b69a751aa-1744313721445.jpg</picture>
@@ -768,6 +788,7 @@
         <price>299</price>
         <old_price>400</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104160128-4004057daae16824d834797721880c0d-1744454751405.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104160128-079cf453848602d72987d51b46dd9213-1744454627598.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104160128-50742ce76fe3482b301a16c9d6f59f25-1744454626710.jpg</picture>
@@ -805,6 +826,7 @@
         <price>399</price>
         <old_price>400</old_price>
         <categoryId>120</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-d234b11067522345bc4438d4321d6d8d-1744465739097.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-0bd070384578a115c024607db18cfcc5-1744465737572.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164103-2d3cb1fd91d6041d2e2c8d9383e650ae-1744465739622.jpg</picture>
@@ -840,6 +862,7 @@
         <price>539</price>
         <old_price>600</old_price>
         <categoryId>120</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-2dce26ebaa855d708193398ecabf39d7-1744466028969.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-226d55b0fb42766880c8aeaccb321390-1744466030927.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i104164232-123c674c36f66c8e659bc695d06eaef7-1744466029497.jpg</picture>
@@ -909,6 +932,7 @@
         <price>999</price>
         <old_price>1200</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105373768-8ad7fce900bcf111c8151dfaaf7668dd-1746088054447.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105373768-e74abb27c479d1f5ac17c83d15aaeace-1746086859115.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105373768-68bcd02456bcb0656cefc91e85652f48-1746086986601.jpg</picture>
@@ -957,6 +981,7 @@
         <price>599</price>
         <old_price>760</old_price>
         <categoryId>96</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105739648-90adb81b986b6ffad4269a091bc5b6aa-1746791755522.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105739648-6402d5a5ad50071eaea771be4ad92c7e-1746791753141.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i105739648-696af29cf6c508ff19f4651cbe3a916f-1746791752169.jpg</picture>
@@ -974,6 +999,7 @@
         <price>589</price>
         <old_price>760</old_price>
         <categoryId>96</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i109421506-08c26697a65f0577eb019fb11ad49440-1751445338066.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i109421506-87a914d2eb50728956bfde96465110d2-1751445486730.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i109421506-052420a5bd73093e2bf8bb3b8ea5b7de-1751445380224.jpg</picture>
@@ -1016,6 +1042,7 @@
         <price>299</price>
         <old_price>450</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112442359-1ed616c9972b84c2eb5c72b899e0cb46-1779613743300.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112442359-3a4a3602865ce7a1f24d8557c45ace6e-1779613451369.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112442359-114bb72364986f60bf338079d78cce71-1779614066096.jpg</picture>
@@ -1054,6 +1081,7 @@
         <price>399</price>
         <old_price>470</old_price>
         <categoryId>132</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112443782-962d3bd4ea940f410115497f8f494e05-1779612760213.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112443782-f6ad1bf9fdf2f5f84d234fd7714a8b87-1779612438545.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i112443782-9431fa0c010876c2da8589a8bc724b21-1779612729127.jpg</picture>
@@ -1084,6 +1112,7 @@
         <price>289</price>
         <old_price>560</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i113794952-ffb6f8fc55bb8b6d84538cea1c190487-1756730958513.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i113794952-8f8317cb0699aefef5995ce1be0460e7-1756730983905.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i113794952-3227e8822cd65c05c96608dcf791a609-1756730987582.jpg</picture>
@@ -1194,6 +1223,7 @@
         <price>399</price>
         <old_price>550</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115863263-e66c8cfd3d6ce9bb52469217af803db2-1759245409175.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115863263-f32d84b92ca20156d9f15b65f682e4b2-1759244853544.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i115863263-1911ac00e94ab4b9c9c2012ebec20201-1759244888772.jpg</picture>
@@ -1220,6 +1250,7 @@
         <price>369</price>
         <old_price>520</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116000787-3f31e870e735139c8ab54ae006ac4f2a-1759327744257.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116000787-68b45222c9778bc7d5af34518841b8da-1759327744863.jpg</picture>
@@ -1249,6 +1280,7 @@
         <price>999</price>
         <old_price>990</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116152064-c7d7552c9c9c0fa4b781fcc2bdacdc55-1759487439677.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116152064-ec0574dc18e9c4f52abc823d310a3cb4-1759487552231.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116152064-c9a8946f9172e6f1edd621f3a5e65d0b-1759487513648.jpg</picture>
@@ -1288,6 +1320,7 @@
         <price>749</price>
         <old_price>820</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116184430-cf7e757b10d46ea12ce47090af314ef0-1765793619928.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116184430-62da8f45a803f9d9b04deaecbe0ed6ab-1765794141514.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116184430-7889c23e5a058f6f57e07b267227495c-1765794329611.jpg</picture>
@@ -1317,6 +1350,7 @@
         <price>399</price>
         <old_price>499</old_price>
         <categoryId>138</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116525397-88b711c3baa7729a1dac18cfa71bc8c3-1768823726755.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116525397-9fbe136b75342444be74323fb0485d9f-1759843576259.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116525397-49b3c779eeb3c05e6a9b4b6225c41594-1759843814257.jpg</picture>
@@ -1341,6 +1375,7 @@
         <price>599</price>
         <old_price>1140.89</old_price>
         <categoryId>138</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116527393-95ddd35bd726b43dd789772923b4f8a1-1759849971644.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116527393-1fa05ad26ab188b2304c98f23596b89f-1759850408773.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116527393-0bbfca155a90c1cde45f387b989b49b6-1759844841468.jpg</picture>
@@ -1364,6 +1399,7 @@
         <price>599</price>
         <old_price>1140.89</old_price>
         <categoryId>138</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116861663-ae9c6a19395b6fae164c29e4af87e346-1759912214944.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116861663-465a6d0aab2a85697f2b3c0481c7e97f-1759913009762.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116861663-fec1c4912e310a3ce6285859acb6d1b3-1759910826659.jpg</picture>
@@ -1386,6 +1422,7 @@
         <price>695</price>
         <old_price>999</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117279729-d4ba1a55feb361a7673bec41f7d04421-1760216534110.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117279729-c243101d47c997ebba4f28c4c80ed6b1-1760216548426.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117279729-3e7fdbae111d4366a2cc632cd7983283-1760216550218.jpg</picture>
@@ -1408,6 +1445,7 @@
         <price>749</price>
         <old_price>999</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337497-8d674c8545ceed1b9c41103446dc4291-1760217926686.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337497-3d986d38e8a71cc3e1b9e3cade196473-1760217908815.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337497-4736ac38e3e8ab3718452774f1ff76aa-1760217907272.jpg</picture>
@@ -1424,6 +1462,7 @@
         <price>749</price>
         <old_price>999</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337507-cf56ddf6dbb2c39cdc77f94301521dfb-1760218323819.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337507-4f8641ff67407ed3f8d98997e3e53182-1760218348666.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117337507-052420a5bd73093e2bf8bb3b8ea5b7de-1760218346738.jpg</picture>
@@ -1444,6 +1483,7 @@
         <price>699</price>
         <old_price>990</old_price>
         <categoryId>123</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-7b7aea82ba84ac535ed3b4105fc4af95-1760257754187.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-f906540bb27baf921597917282a25f1f-1760256923911.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-fe956be5bb09286f40845905323d747b-1760256923320.jpg</picture>
@@ -1486,6 +1526,7 @@
         <price>1299</price>
         <old_price>1542.03</old_price>
         <categoryId>86</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118479269-4a324698d4a3fbc1302e4c724100488a-1761726205324.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118479269-ff981bd72f9e6f8c80fe8467c0d2e195-1761726239755.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118479269-28bab40a88411887e66a6312905f02bb-1761726342512.jpg</picture>
@@ -1529,6 +1570,7 @@
         <price>1299</price>
         <old_price>1542.03</old_price>
         <categoryId>86</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118482663-d053106adb9f328d817b2e7ef365be12-1761726816191.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118482663-29e2ac3da378ff22a3086d95b3899c78-1761726809515.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118482663-58d5e703e2fe5cf32a463483234238de-1761726826196.jpg</picture>
@@ -1547,6 +1589,7 @@
         <price>569</price>
         <old_price>760</old_price>
         <categoryId>96</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118511520-f017bd92f0b08f2189b6564b46fe2691-1761730921381.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118511520-a0fb837a38d34430ab089bac49735dfb-1761730921762.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118511520-35c5b949d80e28351cf9f80a708a1f12-1761730922194.jpg</picture>
@@ -1564,6 +1607,7 @@
         <price>595</price>
         <old_price>760</old_price>
         <categoryId>96</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118684222-3d4545c245f248258a8e17ca9319c0a7-1761901148166.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118684222-9fa49a424902ebedcaf96623f949043a-1761901148491.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118684222-a7d218531c29926e12942b126f13192a-1761902992751.jpg</picture>
@@ -1581,6 +1625,7 @@
         <price>549</price>
         <old_price>760</old_price>
         <categoryId>96</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118688911-5182e485d9fc4c271bc2f2458f52d703-1761903500917.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118688911-19adc30a5c187deb0cdc7203eadb9dce-1761903501180.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i118688911-c147ac78ec482a49cb96063880bcdc99-1761903500671.jpg</picture>
@@ -1597,6 +1642,7 @@
         <price>699</price>
         <old_price>820</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120322975-d6702773994ae071048178d00033ebdd-1763390982203.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120322975-ce100ae10141582bec31bce4391ac892-1763390396801.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120322975-d17e6adcf51639be7aa3e2ce03b2c1e1-1763390480825.jpg</picture>
@@ -1633,6 +1679,7 @@
         <price>774</price>
         <old_price>920</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120323127-89a4e61607786acb7157f197dfd9f883-1763391817342.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120323127-f1c09e6a0ae07ade8ffd1af68eec4947-1763391466366.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120323127-300ceb3cb138e68026cde4ea43339866-1763391577626.jpg</picture>
@@ -1661,6 +1708,7 @@
         <price>329</price>
         <old_price>400</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120494018-6e5c3e01000fc66e5f62682d0d62c95c-1763565006303.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120494018-dbc37170f3bd4dc59b79be48077e84bf-1763565006824.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120494018-87b325e17d548a23e0f99161fb952ab3-1763565045823.jpg</picture>
@@ -1696,6 +1744,7 @@
         <price>449</price>
         <old_price>575</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120494489-d015dd534004c54c70b49bdbab459dcd-1763566793323.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120494489-86d8e0216f34ea36d0a7f0ce7a9b5c59-1763566815277.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i120494489-cdc73e6de86f9e0368d12b78722406e2-1763566947543.jpg</picture>
@@ -1733,6 +1782,7 @@
         <price>799</price>
         <old_price>990</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122443770-29cb86c235f4eb49b129132ae44dddfa-1765798714739.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122443770-1a52af7fb97d2d3dc107bf7d9eaa62cd-1765798756001.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122443770-fb1aad7fedd2a11b71952a94039346b7-1765798788661.jpg</picture>
@@ -1770,6 +1820,7 @@
         <price>699</price>
         <old_price>820</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122533228-63fe1f8537213abf592d89dfffd43d74-1782482463674.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i116184430-62da8f45a803f9d9b04deaecbe0ed6ab-1765794141514.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i122533228-7c97781d5c4228bcfaab9f0374dd4068-1782483429206.jpg</picture>
@@ -1854,6 +1905,7 @@
         <price>579</price>
         <old_price>620</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i123562696-4bc1a43da209b2c7432c95891d594528-1766950967216.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i123562696-becfa5739a06a772daad0e8b8cfdc4e7-1766950089517.jpg</picture>
@@ -1912,6 +1964,7 @@
         <price>529</price>
         <old_price>820</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124043012-dd26d62e441ba413483197e4b702cea7-1767779932983.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124043012-669bc763e146771725cb95ede0834fbf-1767779966191.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124043012-fa672bdb5e856559b71f0d36be70d18c-1767780021382.jpg</picture>
@@ -1939,6 +1992,7 @@
         <price>449</price>
         <old_price>459</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124044410-180d51dde86c9d1a4e058c20bd0c41d7-1767785561707.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124044410-a56e17a5d02670ba32c93c5a782b64bf-1767785533399.jpg</picture>
@@ -1968,6 +2022,7 @@
         <price>399</price>
         <old_price>550</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124074792-84820956e0f5ebdb74d1fa2bcf91f132-1767803278694.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124074792-199f015099cbdf8c12fd30fe27cafb81-1767802602851.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124074792-dbf25183368c72c460270405a597a9c2-1767802578209.jpg</picture>
@@ -2010,6 +2065,7 @@
         <price>799</price>
         <old_price>1542.03</old_price>
         <categoryId>86</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124440777-877e00622f5701df94fe5312ca1c2d35-1768317046709.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124440777-db8f530b3c758440e943ebf055fa485a-1768317084830.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124440777-db16b2e426340f566c02ffbad7d660d0-1768317890682.jpg</picture>
@@ -2033,6 +2089,7 @@
         <price>899</price>
         <old_price>990</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124457466-07a46e3c9f8c7f1e5b60a0b634be36d8-1768642277177.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124457466-7090c648e53bb442bbeb9a5d305c2432-1768320678443.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i124457466-9bb786ed32b183035100cbb13f326213-1768332884070.jpg</picture>
@@ -2088,6 +2145,7 @@
         <price>599</price>
         <old_price>999</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231129-e25efd54e413422f6958f84d24773a4c-1769359485480.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231129-26e1d0c5ea6f2b983077cd17062d99d8-1769359486787.jpg</picture>
@@ -2107,6 +2165,7 @@
         <price>599</price>
         <old_price>999</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231280-5022f582ceccf3444a1a98e2be1d0733-1769360569766.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125231280-d1d8082c966b89fec6928c4320a26f29-1769360527391.jpg</picture>
@@ -2130,6 +2189,7 @@
         <price>249</price>
         <old_price>350</old_price>
         <categoryId>645</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125360365-b80b208efeb053bfa4280be43e747adf-1769440102900.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125360365-ee0ebe7facf7266efdcb5262c63e2835-1769440127582.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125360365-3970e6a1c7789f4bf0b6e6b896d07cf7-1769440148102.jpg</picture>
@@ -2169,6 +2229,7 @@
         <price>129</price>
         <old_price>250</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125650347-dcb292f297d29622f311a7d65d0710dc-1769789173634.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125650347-61e08eb9690fe8941fde43ec47477438-1769789402979.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i125650347-2c8ea6ef72a588a3b1644369d5f0d23e-1769789145714.jpg</picture>
@@ -2222,6 +2283,7 @@
         <price>349</price>
         <old_price>410</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i126699053-26d0d14f496e40e30219ace2f29c0168-1771323158031.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i126699053-5d850705fa3b8a67af64dcb8d1344309-1771323542721.jpg</picture>
@@ -2250,6 +2312,7 @@
         <price>279</price>
         <old_price>400</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i127531313-994a01cc7e92bb905724433dac0b7f57-1772100911759.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i127531313-b90bb1b83558fedba3b7f20618bd623e-1772100159879.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i127531313-1dd01d46a8098f3b357d943c11d98055-1772101191184.jpg</picture>
@@ -2343,6 +2406,7 @@
         <price>449</price>
         <old_price>600</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134133730-00d8fe3f2f113e8fd2fb7f45e032323a-1778157650418.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134133730-67191028a9bf0834c7e58faea05e41c6-1778157973159.jpg</picture>
@@ -2487,6 +2551,7 @@
         <price>599</price>
         <old_price>800</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134137299-8503f33760b2ef7558ef6bc11a41dc49-1778161685465.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134137299-72808f9c9383d5d2f2ba6ba0ad37f2b1-1778161743235.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i134137299-64bc5b8d4d674f38858c958da1a54a1e-1778161744288.jpg</picture>
@@ -2622,6 +2687,7 @@
         <price>249</price>
         <old_price>289</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531616-53d95de6b1ec086b5d58070193303359-1779617226287.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531616-32e1d9d14ec0221e61411aa610da85c8-1779617226695.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531616-d6f2f47167161006577c5a23806a4a61-1779617243175.jpg</picture>
@@ -2712,6 +2778,7 @@
         <price>239</price>
         <old_price>289</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531746-94f3b2203a69d0da6612e818d13a393c-1779617984422.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531746-62862fd054c80848712e437bfde458e1-1779617993043.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i135531746-d8240c1ba09511d0f632010b1d0ebd48-1779618003454.jpg</picture>
@@ -2753,6 +2820,7 @@
         <price>699</price>
         <old_price>990</old_price>
         <categoryId>123</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-7b7aea82ba84ac535ed3b4105fc4af95-1760257754187.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-f906540bb27baf921597917282a25f1f-1760256923911.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-fe956be5bb09286f40845905323d747b-1760256923320.jpg</picture>
@@ -2772,6 +2840,7 @@
         <price>249</price>
         <old_price>345</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869612-1fcfeb22a8ba46cff52aa71f1475acf9-1780837277117.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869612-4e8a424cf1ca93e09d0276aa44c2b7da-1780837401722.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869612-12f7d7921e34e0fa9ffa08edbff69372-1780837272909.jpg</picture>
@@ -2804,6 +2873,7 @@
         <price>299</price>
         <old_price>400</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869715-cb02f13d2339214edc5bd39027d67afb-1780838641653.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869715-b59dcec487e3e0bb6c0c2cc8053bd1da-1780838979905.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869715-e09f5a283db75776c7f67a641d931162-1780838657458.jpg</picture>
@@ -2842,6 +2912,7 @@
         <price>439</price>
         <old_price>590</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869901-2ad79d4a98003b2ced3c48f059ab0c2a-1780841487885.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136869901-96a011c40da3d81557cac0925bab33b8-1780841713678.jpg</picture>
@@ -2986,6 +3057,7 @@
         <price>499</price>
         <old_price>590</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136879890-3369917421f42e25acd3286403890763-1780858217808.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i136879890-5732a63579507be5f328f2e4fb942378-1780858265598.jpg</picture>
@@ -3015,6 +3087,7 @@
         <price>299</price>
         <old_price>450</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014295-c073c1c2c5ca047529110413c2e296f9-1781011602622.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014295-8e2a77c304d31b45e721e0fa033dff5d-1781011629777.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014295-186773b9e0ca3e66201e6870318e16bc-1781011900510.jpg</picture>
@@ -3052,6 +3125,7 @@
         <price>299</price>
         <old_price>450</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014797-4bf0e17234acc7192d14f8eebc15b4ca-1781013289804.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014797-7944dfd65ef0986034c527808eb8393a-1781013030908.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137014797-4aa1693e9e67f844acdaf519af99edde-1781012907917.jpg</picture>
@@ -3087,6 +3161,7 @@
         <price>199</price>
         <old_price>350</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137015307-6be71701e4045141ff273bc726a0938c-1781014365793.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137015307-37473e932d3ff402a71fa67ed0703945-1781014990805.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137015307-9e9ea9835457400666230a16e869a70b-1781014370940.jpg</picture>
@@ -3120,6 +3195,7 @@
         <price>199</price>
         <old_price>350</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137017162-b148693aca06e318dcae17b2474ad932-1781015427896.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137017162-97f9aea2e852d3c7fd4224d07a9e2192-1781015761979.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i137017162-f1b84c0462d4096703e911338715f4cd-1781015427341.jpg</picture>
@@ -3156,6 +3232,7 @@
         <price>695</price>
         <old_price>990</old_price>
         <categoryId>123</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-7b7aea82ba84ac535ed3b4105fc4af95-1760257754187.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-f906540bb27baf921597917282a25f1f-1760256923911.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i117379428-fe956be5bb09286f40845905323d747b-1760256923320.jpg</picture>
@@ -3206,6 +3283,7 @@
         <price>499</price>
         <old_price>35344</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141977469-e32f511b962a92ee30c6890347108c32-1784898145263.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141977469-87f67ff628dad9ac281356697a244c10-1784898144810.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141977469-72c68b22517717af8d17550227535e37-1784898403547.jpg</picture>
@@ -3239,6 +3317,7 @@
         <price>499</price>
         <old_price>35344</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141987968-a5bad4faf966b75bdb95b0878f23b7f3-1784900554248.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141987968-8cc828b1132482cc8245d9ea92967586-1784900145012.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141987968-fef2d31c8aae0c81753a3a247b705192-1784900148175.jpg</picture>
@@ -3271,6 +3350,7 @@
         <price>499</price>
         <old_price>35344</old_price>
         <categoryId>114</categoryId>
+        <vendor>No brand</vendor>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141988350-0d4388eaae1279c6392eaa78b2d3a56b-1784901648178.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141988350-d97f7690161a8d41c99aee77a256b839-1784901648988.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i141988350-a7ef9d7fd30cfa8ee64f0d54091fdbdb-1784901636580.jpg</picture>

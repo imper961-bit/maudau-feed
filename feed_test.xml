@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-08-07 11:45">
+<yml_catalog date="2026-08-07 12:00">
   <shop>
     <categories>
       <category id="137" portal_id="137">Розвиваючі іграшки</category>
@@ -14,6 +14,7 @@
         <price>399</price>
         <old_price>520</old_price>
         <categoryId>137</categoryId>
+        <vendor>No brand</vendor>
         <country>Китай</country>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i100102328-1bee02a3492e27a996b44539448df091-1740396769203.jpg</picture>
         <picture>https://pricecreator.rozetka.com.ua/uploads/24650/item/original/i100102328-9c01bedc7a5eb7a6bd810e910c0495d9-1740396769479.jpg</picture>
